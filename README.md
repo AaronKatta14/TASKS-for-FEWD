@@ -1,2 +1,2 @@
 # TASKS-for-FEWD
-Mini Tasks for FWED
+Mini Tasks for FEWD
